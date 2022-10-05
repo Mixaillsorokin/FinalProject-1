@@ -12,3 +12,5 @@
 
 (РЕШЕНИЕ В ПАПКЕ "TaskCode"->"Program.cs"->Команда "dotnet run")
 
+* ## **Блок-схема:**
+![Блок-схема ](BlockShema.png)
